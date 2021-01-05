@@ -1,0 +1,13 @@
+
+
+#game container
+game:             css:body > div.container > div.game-container
+
+
+closeAdButton:    css:#ezmobfooter > span
+
+#corner tile (Lower left)
+cornerTile:       css:body > div.container > div.game-container > div.tile-container > div.tile.tile-2.tile-position-1-4 > div
+tileContainer:    css:body > div.container > div.game-container > div.tile-container > div
+gameOverScreen:   css:body > div.container > div.game-container > div.game-message.game-over
+newGameButton:    css:body > div.container > div.above-game > a
